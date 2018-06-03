@@ -99,7 +99,7 @@
     <div id="page-top" style="background-color: #173857; height: 50px;">
         <span class="navbar-brand" style="padding: 15px; color: #fff">
             <nav>
-                <a style="color: #fff" href="tables.html">escalation.places</a>
+                <a style="color: #fff" href="tables.php">escalation.places</a>
             </nav>
         </span>
     </div>
